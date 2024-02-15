@@ -1,3 +1,4 @@
+using BlazorWebAssemblySignalRApp.Server.Hubs;
 using Microsoft.AspNetCore.ResponseCompression;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -35,7 +36,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-
+app.UseResponseCompression();
 app.MapRazorPages();
 app.MapControllers();
 app.MapFallbackToFile("index.html");

@@ -1,0 +1,12 @@
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.deps.json
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\bin\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.dll
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\refint\BlazorWebAssemblySignalRApp.Shared.dll
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\BlazorWebAssemblySignalRApp.Shared.pdb
+c:\VscodeFile\ASPNETCORE\BlazorWebAssemblySignalRApp\Shared\obj\Debug\net6.0\ref\BlazorWebAssemblySignalRApp.Shared.dll
